@@ -1,0 +1,12 @@
+p {
+  text-align: center;
+  font-family: sans-serif;
+}
+small {
+  font-size: 11px;
+}
+div {
+  background-color: #FFFFFF;
+  padding: 1px;
+  border-radius: 1px;
+}
